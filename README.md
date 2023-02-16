@@ -2,7 +2,7 @@
 
 ## TODO List
 
-- [ ] Authentication
+- [x] Authentication
 - [ ] _Task Model_
     - [ ] Belongs to user
     - [ ] has `prompt`, `completion`
