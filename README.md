@@ -3,8 +3,8 @@
 ## TODO List
 
 - [x] Authentication
-- [ ] _Task Model_
-    - [ ] Belongs to user
-    - [ ] has `prompt`, `completion`
+- [x] _Task Model_
+    - [x] Belongs to user
+    - [x] has `prompt`, `completion`
 - [ ] Make it beautiful
 - [ ] JSON API
