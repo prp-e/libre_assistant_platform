@@ -6,4 +6,5 @@
 - [ ] _Task Model_
     - [ ] Belongs to user
     - [ ] has `prompt`, `completion`
+- [ ] Make it beautiful
 - [ ] JSON API
