@@ -9,5 +9,6 @@
 - [ ] Make it beautiful
     - [x] Adding bootstrap
     - [x] Installing Simple Form
+        - But direct use of bootstrap preferred.
     - [ ] Getting project in shape
 - [ ] JSON API
