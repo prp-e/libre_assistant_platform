@@ -6,7 +6,7 @@
 - [x] _Task Model_
     - [x] Belongs to user
     - [x] has `prompt`, `completion`
-- [ ] Make it beautiful
+- [x] Make it beautiful
     - [x] Adding bootstrap
     - [x] Installing Simple Form
         - But direct use of bootstrap preferred.
