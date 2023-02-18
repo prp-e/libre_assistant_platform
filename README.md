@@ -7,7 +7,8 @@
     - [x] Belongs to user
     - [x] has `prompt`, `completion`
 - [ ] Make it beautiful
-    - [ ] Adding bootstrap
-    - [ ] Installing Simple Form
-    - [ ] Getting project in shape
+    - [x] Adding bootstrap
+    - [x] Installing Simple Form
+        - But direct use of bootstrap preferred.
+    - [x] Getting project in shape
 - [ ] JSON API

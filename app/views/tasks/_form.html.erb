@@ -12,16 +12,16 @@
   <% end %>
 
   <div>
-    <%= form.label :prompt, style: "display: block" %>
-    <%= form.text_field :prompt %>
+    <%= form.label :prompt, style: "display: block", class: "form-label" %>
+    <%= form.text_field :prompt, class: "form-control" %>
   </div>
 
   <div>
-    <%= form.label :completion, style: "display: block" %>
-    <%= form.text_area :completion %>
+    <%= form.label :completion, style: "display: block", class: "form-label" %>
+    <%= form.text_area :completion, class: "form-control" %>
   </div>
 
   <div>
-    <%= form.submit %>
+    <%= form.submit 'Submit', class: "m-2 p-1 btn btn-primary" %>
   </div>
 <% end %>
