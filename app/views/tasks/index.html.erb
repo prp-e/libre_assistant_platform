@@ -13,8 +13,8 @@
     </thead>
     <% @tasks.each do |task| %>
       <tr>
-        <td> Hello </td>
-        <td> World </td>
+        <td> <%= task.prompt %></td>
+        <td> <%= task.completion %></td>
       </tr>
     <% end %>
   </table>
