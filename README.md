@@ -8,6 +8,6 @@
     - [x] has `prompt`, `completion`
 - [ ] Make it beautiful
     - [x] Adding bootstrap
-    - [ ] Installing Simple Form
+    - [x] Installing Simple Form
     - [ ] Getting project in shape
 - [ ] JSON API
