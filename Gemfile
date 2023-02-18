@@ -72,3 +72,4 @@ group :test do
 end
 
 gem 'devise', github: 'heartcombo/devise', branch: 'main'
+gem 'simple_form'
