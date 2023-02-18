@@ -11,7 +11,7 @@
       <th> Prompt </th>
       <th> Completion </th>
     </thead>
-    <% @tasks.each do |task| %>
+    <% @tasks.reverse_each do |task| %>
       <tr>
         <td> <%= task.prompt %></td>
         <td> <%= task.completion %></td>
